@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/gui/TakeTestFrame.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/gui/StudentFrame.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/gui/ViewScoresFrame.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/dao/QuestionDAO.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/dao/ExamDAO.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/gui/ViewSingleScore.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/pojo/UserProfile.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/gui/PaperViewFrame.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/dao/PerformanceDAO.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/pojo/AnswerStore.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/dbutil/DBConnection.java</file>
+            <file>file:/D:/NETBEANS%20Projects/QUIZAPP/src/quizapp/gui/PaperSettingFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
